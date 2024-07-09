@@ -15,7 +15,8 @@ git remote add origin https://github.com/mchmir/myWorkTest.git
 git branch -M main
 git push -u origin main
 …or import code from another repository
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project. -- comment 4
 
 
 Release 1.2
+-- comment 3
