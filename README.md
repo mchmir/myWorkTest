@@ -20,3 +20,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 Release 1.2
 -- comment 3
+
+Release 1.3
+-- Первый коммит простой
+-- SQUASH  второй коммит, но должен быть один
